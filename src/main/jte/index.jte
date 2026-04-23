@@ -41,7 +41,7 @@
 <%-- j. Variables --%>
 <h2>Variables</h2>
 !{int doubled = age * 2;}
-<p>Подвоєний вік: ${doubled}</p>
+<p>Doubled age: ${doubled}</p>
 
 </body>
 </html>

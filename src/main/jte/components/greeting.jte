@@ -5,7 +5,7 @@
     <p>Hello, ${username}!</p>
 
     @if(hobbies.length > 0)
-        <p>Твої хобі:</p>
+        <p>Your hobbies:</p>
         <ul>
             @for(String hobby : hobbies)
                 <li>${hobby}</li>
